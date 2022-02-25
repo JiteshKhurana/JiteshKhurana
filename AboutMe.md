@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JiteshKhurana.
+- 😁 I’m a student at Thapar University and a technology enthusiast.
+- 🌱 I’m currently learning Web Development.
+- 📫 You can check my Portfolio Website :  
